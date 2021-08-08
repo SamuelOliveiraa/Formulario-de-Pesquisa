@@ -41,4 +41,12 @@ body{
 .container .content p{
     font-size: 1.5rem;
     width: 60%;
+    margin-bottom: 2rem;
+}
+.container .content a{
+    text-decoration: none;
+    color: white;
+}
+.container .content a:hover{
+    color: #424392d0;
 }
