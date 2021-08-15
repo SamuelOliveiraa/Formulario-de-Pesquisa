@@ -20,5 +20,5 @@ This challenge is very simple, it has no back-end and also no JS to validate the
 
 ## Access My Resolution 💻
 
-  I hosted this challenge with the help of GitHub Pages to access my resolution of this challenge [Click Here]( https://samueloliveiraa.github.io/ping-coming-soon-page-master/)
+  I hosted this challenge with the help of GitHub Pages to access my resolution of this challenge [Click Here](https://samueloliveiraa.github.io/Formulario-de-Pesquisa/index.html)
 
