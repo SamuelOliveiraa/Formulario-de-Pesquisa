@@ -8,16 +8,15 @@ This is a challenge proposed by the website **[FreeCodeCamp](https://www.freecod
 
 ## The Challenge 🎯
 
-This challenge is to reproduce this **Survey Form** as close as possible to the original design.
+This challenge is to reproduce this **[Survey Form](https://codepen.io/freeCodeCamp/full/VPaoNP)** as close as possible to the original design.
 
-My biggest difficulties in this project were implementing the Email validation with Js, but after a lot of research and dedication I realized that it wasn't that difficult. I still have a bit of difficulty using JS, but with time I get the hang of it.
+This challenge is very simple, it has no back-end and also no JS to validate the fields. I used this challenge to train my skills with responsive websites, styling and using multiple inputs on the same page
 
 ## Technologies Used 🧩
 
 * HTML5
 * CSS3
-* JAVASCRIPT
-* Media-queries
+* Responsive Website
 
 ## Access My Resolution 💻
 
